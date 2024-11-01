@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/social-links-profile-with-css-grid-WYjyZ3vQ5U)
 - Live Site URL: [Add live site URL here](https://ivngzmn.github.io/social-links-profile/)
 
 ## My process
