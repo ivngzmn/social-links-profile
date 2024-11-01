@@ -50,6 +50,7 @@ Users should be able to:
 ### What I learned
 
 I learned more about group hovering to ensure a seamless hover transition on the list item with a link.
+Note: the screenshot on the Frontend Mentor site varies from the figma in particular with the fonts on the jpeg.
 
 ### Continued development
 
