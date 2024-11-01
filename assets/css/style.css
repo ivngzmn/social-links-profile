@@ -31,30 +31,6 @@
   --full-radius: 100%;
 }
 
-@font-face {
-  font-family: 'Inter';
-  src: url(./assets/fonts/Inter-VariableFont_slntwght.ttf) format('truetype');
-  font-weight: 100 900;
-}
-
-@font-face {
-  font-family: 'Inter';
-  src: url(./assets/fonts/static/Inter-Bold.ttf) format('truetype');
-  font-weight: var(--bold);
-}
-
-@font-face {
-  font-family: 'Inter';
-  src: url(./assets/fonts/static/Inter-Regular.ttf) format('truetype');
-  font-weight: var(--regular);
-}
-
-@font-face {
-  font-family: 'Inter';
-  src: url(./assets/fonts/static/Inter-SemiBold.ttf) format('truetype');
-  font-weight: var(--semi-bold);
-}
-
 .text-body-bold {
   font: var(--body-bold);
   font-optical-sizing: var(--font-optical-sizing);
