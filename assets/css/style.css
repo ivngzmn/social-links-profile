@@ -30,6 +30,7 @@
   --md: 24px;
   --sm: 16px;
   --xs: 12px;
+  --xxs: 4px;
   --sm-radius: 8px;
   --lg-radius: 12px;
   --full-radius: 100%;
@@ -81,11 +82,15 @@ body {
       border-radius: var(--full-radius);
       justify-self: center;
     }
-    & .card-heading {
-      color: var(--white);
-    }
-    & .card-location {
-      color: var(--neon-green);
+    & .card-name-location {
+      display: grid;
+      gap: var(--xxs);
+      & .card-heading {
+        color: var(--white);
+      }
+      & .card-location {
+        color: var(--neon-green);
+      }
     }
     & .card-description {
       color: var(--white);
