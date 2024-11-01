@@ -49,6 +49,8 @@ Users should be able to:
 
 ### What I learned
 
+I learned more about group hovering to ensure a seamless hover transition on the list item with a link.
+
 ### Continued development
 
 ### Useful resources
